@@ -4,12 +4,12 @@
 }
 
 body {
-  background-image: url("/img/todowallpaper.jpg");
+  background-image: url("https://github.com/RecheEduardo/TodoList/blob/main/imgs/todowallpaper.jpg?raw=true");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
   font-family: "Plus Jakarta Sans";
-  zoom: 1.5;
+  zoom: 1.25;
 }
 
 .todo-container {
