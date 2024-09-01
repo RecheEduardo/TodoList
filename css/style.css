@@ -144,7 +144,6 @@ body {
   background-color: #53036980;
   border: 1px solid rgb(83, 3, 105);
   text-decoration-line: line-through;
-  font-style: italic;
   animation: fadeIn ease-in-out 1s;
   transition: 0.8s;
 }
